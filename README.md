@@ -3,24 +3,24 @@
  ใน repo ผมก็จะมีพวก code
 
   Exp:
-    * Swift พัฒนา iOS app
-    * Nodejs ทำ Backend via REST api
-    * TypeScript (Nestjs) ทำ Backend
-    * Microservice (TCP)
+* Swift พัฒนา iOS app
+* Nodejs ทำ Backend via REST api
+* TypeScript (Nestjs) ทำ Backend
+* Microservice (TCP)
 
   Backend knowledge
-    *Auth
-    *JWT
-    *CRUD (REST API)
-    *File-upload
-    *Sendmail
-    *Db connect (Postgres)
-    *Db query
-    *Storage (MiniO)
-    *Unit test (Jest)
-    *Error exception
-    *Data validation
-    *Microservice (TCP)
+* Auth
+* JWT
+* CRUD (REST API)
+* File-upload
+* Sendmail
+* Db connect (Postgres)
+* Db query
+* Storage (MiniO)
+* Unit test (Jest)
+* Error exception
+* Data validation
+* Microservice (TCP)
   
 
 
