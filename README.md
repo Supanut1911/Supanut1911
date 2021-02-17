@@ -2,13 +2,13 @@
   สวัสดีครับ นัท ศุภณัฐ ลัดดาแย้ม ครับ จบ ป.ตรี วิศวะคอม ที่ มอ. ภูเก็ต ตอนนี้เขียน TypeScript กับ framwork NestJS🐱
  ใน repo ผมก็จะมีพวก code
 
-  Exp:
+# Exp:
 * Swift พัฒนา iOS app
 * Nodejs ทำ Backend via REST api
 * TypeScript (Nestjs) ทำ Backend
 * Microservice (TCP)
 
-  Backend knowledge:
+# Backend knowledge:
 * Auth
 * JWT
 * CRUD (REST API)
