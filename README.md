@@ -8,7 +8,7 @@
 * TypeScript (Nestjs) ทำ Backend
 * Microservice (TCP)
 
-  Backend knowledge
+  Backend knowledge:
 * Auth
 * JWT
 * CRUD (REST API)
