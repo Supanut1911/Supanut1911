@@ -3,10 +3,10 @@
  ใน repo ผมก็จะมีพวก code
 
   Exp:
-    *Swift พัฒนา iOS app
-    *Nodejs ทำ Backend via REST api
-    *TypeScript (Nestjs) ทำ Backend
-    *Microservice (TCP)
+    * Swift พัฒนา iOS app
+    * Nodejs ทำ Backend via REST api
+    * TypeScript (Nestjs) ทำ Backend
+    * Microservice (TCP)
 
   Backend knowledge
     *Auth
