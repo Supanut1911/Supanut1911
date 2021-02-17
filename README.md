@@ -1,6 +1,6 @@
 ### Hi there 👋
   สวัสดีครับ นัท ศุภณัฐ ลัดดาแย้ม ครับ จบ ป.ตรี วิศวะคอม ที่ มอ. ภูเก็ต ตอนนี้เขียน TypeScript กับ framwork NestJS🐱
- ใน repo ผมก็จะมีพวก code
+ ใน repo ผมก็จะมีพวก code base ของหัวเรื่องต่างๆ ส่วนใหญ่เกี่ยวกับ Js และ Typescript นะ
 
 #### Exp:
 * Swift พัฒนา iOS app
@@ -26,6 +26,7 @@
 
 
 >You got a dream. You gotta protect it. People can't do something themselves, they wanna tell you you can't do it. If you want something, go get it.
+>The Pursuit of Happyness (2006)
 
 <!--
 **Supanut1911/Supanut1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
