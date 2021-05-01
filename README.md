@@ -1,27 +1,4 @@
 ### Hi there 👋
-  สวัสดีครับ นัท ศุภณัฐ ลัดดาแย้ม ครับ จบ ป.ตรี วิศวะคอม ที่ มอ. ภูเก็ต ตอนนี้เขียน TypeScript กับ framwork NestJS🐱
- ใน repo ผมก็จะมีพวก code base ของหัวเรื่องต่างๆ ส่วนใหญ่เกี่ยวกับ Js และ Typescript นะ
-
-#### Exp:
-* Swift พัฒนา iOS app
-* Nodejs ทำ Backend via REST api
-* TypeScript (Nestjs) ทำ Backend
-* Microservice (TCP)
-
-#### Backend knowledge:
-* Auth
-* JWT
-* CRUD (REST API)
-* File-upload
-* Sendmail
-* Db connect (Postgres)
-* Db query
-* Storage (MiniO)
-* Unit test (Jest)
-* Error exception
-* Data validation
-* Microservice (TCP)
-
 
 ![alt text](https://i1.wp.com/theunvisited.in/wp-content/uploads/2017/12/the-unvisited-pursuit-of-happiness-quotes-man-motivation-inspiration-1-min.jpg?resize=640%2C427)
 
