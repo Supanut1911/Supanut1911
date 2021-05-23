@@ -1,11 +1,10 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![alt text](https://i1.wp.com/theunvisited.in/wp-content/uploads/2017/12/the-unvisited-pursuit-of-happiness-quotes-man-motivation-inspiration-1-min.jpg?resize=640%2C427)
-
-[![](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
