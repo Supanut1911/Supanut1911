@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Supanut1911&theme=tokyonight&show_icons=true)
 
-[![Supanut's stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Supanut's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Supanut1911&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![alt text](https://i1.wp.com/theunvisited.in/wp-content/uploads/2017/12/the-unvisited-pursuit-of-happiness-quotes-man-motivation-inspiration-1-min.jpg?resize=640%2C427)
